@@ -23,4 +23,4 @@ https://kevindmzapata.github.io/to-do-list/
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-david-martinez-zapata-308481293/)
 [![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kevindmzapata)
-[![ORCID](https://img.shields.io/badge/ORCID-48b500?style=for-the-badge&logo=ORCID&logoColor=white)](https://twitter.com/)
+[![ORCID](https://img.shields.io/badge/ORCID-48b500?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0009-4937-3856)
