@@ -7,6 +7,12 @@ I'm a Electronic Engineering and Data Scientist.
 
 The primary goal of a To-Do list web application is to provide a simple and efficient way for users to create, organize, and track their tasks and responsibilities, helping them stay productive and on top of their commitments.
 
+## Instructions
+
+- Add a new task in the 'Add Task' button.
+- Mark tasks as completed.
+- Delete any previously completed tasks
+
 ## Demo
 
 https://kevindmzapata.github.io/to-do-list/
@@ -14,7 +20,7 @@ https://kevindmzapata.github.io/to-do-list/
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/kevindmzapata/to-do-list/blob/main/app-screenshot.png)
 
 
 ## Authors
